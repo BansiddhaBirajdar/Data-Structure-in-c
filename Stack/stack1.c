@@ -1,3 +1,4 @@
+//stack using the static array
 #include<stdio.h>
 #include<stdlib.h>
 #define Maxsize 5
